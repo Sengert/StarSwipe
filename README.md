@@ -1,4 +1,4 @@
-# StarSwipe
+# StarSwipe, files for showcasing are below
 
 <p align="center">
   <img src="https://github.com/Sengert/StarSwipe/blob/master/Screenshot_Game.png" width="350" title="hover text">
@@ -10,4 +10,6 @@
   * https://github.com/Sengert/StarSwipe/blob/master/C%23%20Scripts/GPGSDriver.cs
   * https://github.com/Sengert/StarSwipe/blob/master/C%23%20Scripts/AsteroidSpawner.cs
   * https://github.com/Sengert/StarSwipe/blob/master/C%23%20Scripts/Asteroid.cs
+  
+  Other files are also included in the scripts folder.
   
